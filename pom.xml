@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ict.hasher</groupId>
+    <artifactId>pattern-hasher</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>Pattern Hasher Library</name>
+    <description>A lightweight Java pattern hashing library</description>
+
+    <url>https://github.com/vladanik/pattern-hasher</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>ict-udanik</id>
+            <name>Wladyslaw Danik</name>
+            <email>udanik@proton.me</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/vladanik/pattern-hasher</url>
+        <connection>scm:git:git://github.com/vladanik/pattern-hasher.git</connection>
+        <developerConnection>scm:git:ssh://github.com/vladanik/pattern-hasher.git</developerConnection>
+    </scm>
+
+</project>
