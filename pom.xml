@@ -6,7 +6,7 @@
 
     <groupId>com.github.vladanik</groupId>
     <artifactId>pattern-hasher</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
 
     <name>Pattern Hasher Library</name>
