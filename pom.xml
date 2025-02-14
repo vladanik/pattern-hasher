@@ -35,4 +35,18 @@
         <developerConnection>scm:git:ssh://github.com/vladanik/pattern-hasher.git</developerConnection>
     </scm>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.8.1</version>
+        </dependency>
+    </dependencies>
+
 </project>

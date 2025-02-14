@@ -1,4 +1,4 @@
-package main.java.com.ict.hasher;
+package com.ict.hasher;
 
 /**
  * Const holds constant values used throughout the hashing process.

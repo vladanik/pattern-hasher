@@ -1,4 +1,4 @@
-package main.java.com.ict.hasher;
+package com.ict.hasher;
 
 /**
  * Hasher provides utility methods for hashing strings

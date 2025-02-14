@@ -1,4 +1,4 @@
-package main.java.com.ict.hasher;
+package com.ict.hasher;
 
 import java.util.Arrays;
 
