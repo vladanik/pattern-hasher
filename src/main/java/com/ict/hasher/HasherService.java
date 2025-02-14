@@ -6,7 +6,7 @@ import java.util.Arrays;
  * The HasherService class provides a hashing mechanism using a character pattern.
  * It processes input strings and converts them into hashed representations.
  */
-public class HasherService {
+class HasherService {
     private final char[] pattern;
 
     /**

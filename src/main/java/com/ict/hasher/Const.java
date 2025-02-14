@@ -3,7 +3,7 @@ package com.ict.hasher;
 /**
  * Const holds constant values used throughout the hashing process.
  */
-public final class Const {
+final class Const {
 
     /** The divisor used in the hashing algorithm. */
     public static final int TEN = 10;
